@@ -1,0 +1,5 @@
+// export default "https://freeslot-temp.herokuapp.com"
+export default "https://freeslots.herokuapp.com"
+// export default "https://freeslot.appspot.com"
+// export default "http://localhost:2000"
+// export default "http://localhost:5000"
